@@ -1,0 +1,26 @@
+/* Barra de navegação
+-----------------------------*/
+nav.navbar-transparente {
+	padding: 15px 15px 15px 0px;
+	background: rgba(255,255,255,1);
+	border-bottom: 1px solid #DCDCDC
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #191919;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #6FAA0A;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(255,255,255,.5);
+    border-color: rgba(255,255,255,0.5);
+}
+
+.divisor {
+	width: 1px;
+	background: rgba(247, 247, 247, 0.5);
+	margin: 12px 15px;
+}

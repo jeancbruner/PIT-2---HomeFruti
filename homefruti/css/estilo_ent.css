@@ -1,0 +1,64 @@
+/* Layout
+-----------------------------*/
+html, body, #home {
+	height: 100%;
+	overflow-x: hidden;
+}
+
+body {
+	background: url(../imagens/fundo.png);
+				
+	background-attachment: fixed;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+
+
+.capa {
+  text-align: center;
+}
+
+
+
+.form-signin {
+  
+  border-radius: 8px;
+ 
+  width: 100%;
+  max-width: 330px;
+  padding: 50px 0px;
+  margin: auto;
+  height: 380px;
+}
+
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input {
+  border:1px solid #999999;
+  margin-bottom: 10px;
+}
+
+h1 {
+
+  font-weight: 900;
+  letter-spacing: -0.05em;
+  margin-bottom: 10px;
+  color:#330A02;
+}

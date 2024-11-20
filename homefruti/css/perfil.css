@@ -1,0 +1,97 @@
+/* Barra de navegação
+-----------------------------*/
+nav.navbar-transparente {
+	padding: 15px 15px 15px 0px;
+	background: rgba(255,255,255,1);
+	border-bottom: 1px solid #DCDCDC
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #191919;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #6FAA0A;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(255,255,255,.5);
+    border-color: rgba(255,255,255,0.5);
+}
+
+.divisor {
+	width: 1px;
+	background: rgba(247, 247, 247, 0.5);
+	margin: 12px 15px;
+}
+
+
+/* Rodapé
+-----------------------------*/
+footer {
+	background: #000;
+	padding: 50px 0px 20px 0px;
+	position: relative;
+}
+
+footer h4 {
+	color: #919496;
+	font-size: 1em;
+	text-transform: uppercase;
+}
+
+footer .navbar-nav  a {
+	color: white;
+	font-size: 0.8em;
+}
+
+footer .navbar-nav  a:hover {
+	color:  #9fFf50;
+	text-decoration: none;
+}
+
+footer ul {
+	list-style: none;
+}
+
+footer ul li {
+	float: right;
+	margin: 0 2px;
+}
+
+
+
+.fundoFooter{
+	float: right;
+	
+}
+
+hr{	
+
+	background: white;
+}
+
+
+
+.fundoFooter a{
+	color: white;
+	font-size: 0.8em;
+	margin: 65px;
+
+}
+
+.fundoFooter a:hover {
+	color:  #9fFf50;
+	text-decoration: none;
+}
+
+.fundoFooter label{
+	color: white;
+	font-size: 0.7em;
+	
+}
+
+
+table tr{
+	cursor: pointer;
+}
